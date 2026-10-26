@@ -7,3 +7,4 @@ Shopee PH
 GCash
 Facebook Lite
 Instagram
+Discord
